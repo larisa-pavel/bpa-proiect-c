@@ -1,0 +1,8 @@
+{
+  "selection_method": "WEIGHTED_SCORE",
+  "selection_weights": {
+    "cost": "0.60",
+    "lead_time": "0.25",
+    "reliability": "0.15"
+  }
+}
